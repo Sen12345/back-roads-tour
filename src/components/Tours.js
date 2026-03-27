@@ -7,6 +7,7 @@ const Tours = () => {
     <section className="section" id="tours">
       <div className="section-title">
         <Title title="Featured" subTitle="Tours" />
+        <Title title="Featured" subTitle="Tours" />
       </div>
 
       <div className="section-center featured-center">
